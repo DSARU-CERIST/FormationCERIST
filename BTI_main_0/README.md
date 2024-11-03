@@ -1,2 +1,2 @@
 # BTI
-TP du cours ESTIN, Bases du traitement d'images
+TP Formation CERIST, Bases du traitement d'images
